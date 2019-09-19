@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tugas PWEB Praktikum</title>
+<body bgcolor="#DBEEEC">
+<table width="20%" border="1" cellspacing="0">
+    <thread>
+        <tr>
+            <td align="left">
+
+<h2 style="text-indent: 100px">Form</h2>
+<form>
+    <table width="100%" border="0" cellspacing="0">
+        <thread>
+            <tr>
+                <div class="body">
+                    <label>Nama:</label>
+                    <input type="text" placeholder="Masukkan Nama Anda"><br><br>
+                    <label>NIM:</label>
+                    <input type="number" placeholder="Masukkan NIM Anda"><br><br>
+                    <label>Alamat:</label>
+                    <input type="text" placeholder="Masukkan alamat Anda"><br><br>
+                    <label>Email:</label>
+                    <input type="email" placeholder="Masukkan email Anda"><br><br>
+                    <label>Password:</label>
+                    <input type="password" placeholder="Masukkan password Anda"><br><br>
+                    <label>Jenis Kelamin:</label><br>
+                    <input type="radio" name="gender" id="gender" value="1">Laki-laki<br>
+                    <input type="radio" name="gender" id="gender" value="2">Perempuan<br>
+
+                <td align="center">
+                </td>
+            </tr>
+        </thread>
+    </table><br>
+    <table width="80%" border="1" align="left" cellspacing="0">
+        <thread>
+            <tr>
+
+            <td align="left">
+                <label> Copyright 182410101055       </label></td>
+                <blockquote><blockquote>
+                </tr>
+
+                <img src="endah.jpg" width="50" height="50" align="right"><br>
+
+            </td>
+
+            </tr>
+        </thread>
+    </table>
+</form>
+            </td>
+        </tr>
+    </thread>
+</body>
+</html>
